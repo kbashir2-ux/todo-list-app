@@ -78,11 +78,12 @@ def main():
 
     while True:
         print("\n[bold grey37]==== To-Do List Menu ====[/bold grey37]")
-        print("1. View tasks")
-        print("2. Add a task")
-        print("3. Mark task as complete")
-        print("4. Delete a task")
-        print("5. Exit")
+        print("[bold]1.[/bold] View tasks")
+        print("[bold]2.[/bold] Add a task")
+        print("[bold]3.[/bold] Mark task as complete")
+        print("[bold]4.[/bold] Delete a task")
+        print("[bold]5.[/bold] Exit")
+        #hi
 
         choice = input("Select an option (1-5): ").strip()
 
