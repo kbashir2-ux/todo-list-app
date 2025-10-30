@@ -77,7 +77,7 @@ def main():
     tasks = load_tasks()
 
     while True:
-        print("\n[bold grey37]==== To-Do List Menu ====[/bold grey37]")
+        print("\n[bold blue]==== To-Do List Menu ====[/bold blue]")
         print("[bold]1.[/bold] View tasks")
         print("[bold]2.[/bold] Add a task")
         print("[bold]3.[/bold] Mark task as complete")
